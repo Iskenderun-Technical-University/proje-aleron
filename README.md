@@ -68,3 +68,7 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 - [ ] ....
 - [ ] ....
 
+## Proje Sınıf (Class) Diyagramı:
+Okul Dijital Pano uygulamasında aşağıdaki Database sınıfı ve sınıfa ait olan metodlar oluşturulacak ve kullanılacaktır. Sınıf (Class) diyagramı aşağıdaki gibidir.
+
+<img width="347" alt="Ekran Resmi 2022-04-26 21 49 14" src="https://user-images.githubusercontent.com/101043439/165371797-41920977-6548-4eb1-82d8-4163ee995e80.png">
