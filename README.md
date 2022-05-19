@@ -30,9 +30,9 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 
 
 ## Proje İş Bölümü:
-#### Pano Tasarım İşlemleri: 212503217 Erol GÖNÜL
-#### Veritabanı İşlemleri: 212523209 Ali Fuat GÜNEŞ
-#### Php Kodlama İşlemleri: 212503218 Öner SARITAŞ
+#### Pano Tasarım İşlemleri + PHP Kodlama İşlemleri: 212503217 Erol GÖNÜL
+#### Veritabanı İşlemleri + PHP Kodlama İşlemleri: 212523209 Ali Fuat GÜNEŞ
+#### Pano Tasarım İşlemleri + Php Kodlama İşlemleri: 212503218 Öner SARITAŞ
 
 
 ## Aktiviteler:
