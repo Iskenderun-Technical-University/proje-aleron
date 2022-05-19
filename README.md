@@ -57,7 +57,7 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 7. Yönetici Panoyu İzleme İşlemi:
    - Yönetici yaptığı ayarlamalardan sonra istediği zaman panoyu mevcut ayarlarıyla izleyebilecektir.
 
-
+## Proje Zaman Çizelgesi:
 - [x] İş bölümü oluşturulması (01.04.2022)
 - [x] Dijital pano arayüz tasarımının oluşturulması (14.04.2022)
 - [x] Dijital pano veritabanı tasarımının oluşturulması (21.04.2022)
