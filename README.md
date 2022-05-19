@@ -58,15 +58,20 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
    - Yönetici yaptığı ayarlamalardan sonra istediği zaman panoyu mevcut ayarlarıyla izleyebilecektir.
 
 
-## Proje Zaman Çizelgesi:
 - [x] İş bölümü oluşturulması (01.04.2022)
 - [x] Dijital pano arayüz tasarımının oluşturulması (14.04.2022)
 - [x] Dijital pano veritabanı tasarımının oluşturulması (21.04.2022)
-- [ ] ....
-- [ ] ....
-- [ ] ....
-- [ ] ....
-- [ ] ....
+- [ ] Ders kayıt formunun oluşturulması (28.04.2022)
+- [ ] Alan kayıt formunun oluşturulması (28.04.2022)
+- [ ] Sınıf kayıt formunun oluşturulması (28.04.2022)
+- [ ] Öğretmen kayıt formunun oluşturulması (08.05.2022)
+- [ ] Konum kayıt formunun oluşturulması (08.05.2022)
+- [ ] Ders programının oluşturulması (15.05.2022)
+- [ ] Nöbet Programının oluşturulması (15.05.2022)
+- [ ] Ana sayfada kayan resim video görüntüleme işlemlerinin düzenlenmesi (22.05.2022)
+- [ ] Veritabanına veri girişlerinin tamamlanması (24.05.2022)
+- [ ] Dijital panonun test edilmesi (25.05.2022)
+- [ ] Projenin sonlandırılması (26.05.2022)
 
 ## Proje Sınıf (Class) Diyagramı:
 Okul Dijital Pano uygulamasında aşağıdaki Database sınıfı ve sınıfa ait olan metodlar oluşturulacak ve kullanılacaktır. Sınıf (Class) diyagramı aşağıdaki gibidir.
