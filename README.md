@@ -68,7 +68,7 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 - [x] Konum kayıt formunun oluşturulması (08.05.2022)
 - [x] Ders programının oluşturulması (15.05.2022)
 - [x] Nöbet Programının oluşturulması (15.05.2022)
-- [ ] Ana sayfada kayan resim video görüntüleme işlemlerinin düzenlenmesi (22.05.2022)
+- [x] Ana sayfada kayan resim video görüntüleme işlemlerinin düzenlenmesi (22.05.2022)
 - [ ] Veritabanına veri girişlerinin tamamlanması (24.05.2022)
 - [ ] Dijital panonun test edilmesi (25.05.2022)
 - [ ] Projenin sonlandırılması (26.05.2022)
