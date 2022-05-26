@@ -2,9 +2,9 @@
 proje-aleron created by GitHub Classroom
 ## Proje Adı: Okul Dijital Pano
 
-Okul Dijital Pano Uygulaması 
+
 ## "http://www.aleronprojesi.0fees.us" 
-linkine yüklenmiştir. Yönetici girişi yapmak için üst ortadaki Milli Eğitim Bakanlığı logosuna tıklanmalıdır. Logoya tıklandığında yöneticinin giriş yapması için kullanıcı adı ve şifresini girebileceği ekran gelmektedir. 
+Okul Dijital Pano Uygulaması yukarıdaki linke yüklenmiştir. Yönetici girişi yapmak için üst ortadaki Milli Eğitim Bakanlığı logosuna tıklanmalıdır. Logoya tıklandığında yöneticinin giriş yapması için kullanıcı adı ve şifresini girebileceği ekran gelmektedir. 
 ### Kullanıcı adı: aleron 
 ### Şifre:aleron 
 şeklinde tanımlanmıştır. 
