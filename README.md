@@ -2,6 +2,13 @@
 proje-aleron created by GitHub Classroom
 ## Proje Adı: Okul Dijital Pano
 
+Okul Dijital Pano Uygulaması 
+## "http://www.aleronprojesi.0fees.us" 
+linkine yüklenmiştir. Yönetici girişi yapmak için üst ortadaki Milli Eğitim Bakanlığı logosuna tıklanmalıdır. Logoya tıklandığında yöneticinin giriş yapması için kullanıcı adı ve şifresini girebileceği ekran gelmektedir. 
+### Kullanıcı adı: aleron 
+### Şifre:aleron 
+şeklinde tanımlanmıştır. 
+
 Okul Dijital Pano; bir ekran vasıtasıyla okul bina girişlerinde veya koridorlarında; öğrenci, öğretmen ve velilere yönelik bilgilendirmelerin bir ekran ile görüntülenmesini sağlayan bir dijital pano uygulamasıdır. Renkli arayüzüyle okulunuza canlılık getirirken aynı zamanda ziyaretçilerinizi de bilgilendirir.
 
 İnternet ortamında pek çok dijital pano uygulaması mevcuttur. Ancak panoyu hazırlayan kişiler, bazı bilgilerin değiştirilmesine izin vermemekte, gerekli düzenlemeler yapılamamaktadır. Ya da uygulamayı üreten kişiler (firmalar) kendi reklamlarını yapmak amacıyla bazı görüntülerde kendi bilgilerini göstermektedir. 
@@ -70,8 +77,8 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 - [x] Nöbet Programının oluşturulması (15.05.2022)
 - [x] Ana sayfada kayan resim video görüntüleme işlemlerinin düzenlenmesi (22.05.2022)
 - [x] Veritabanına veri girişlerinin tamamlanması (24.05.2022)
-- [ ] Dijital panonun test edilmesi (25.05.2022)
-- [ ] Projenin sonlandırılması (26.05.2022)
+- [x] Dijital panonun test edilmesi (25.05.2022)
+- [x] Projenin sonlandırılması (26.05.2022)
 
 ## Proje Sınıf (Class) Diyagramı:
 Okul Dijital Pano uygulamasında aşağıdaki Database sınıfı ve sınıfa ait olan metodlar oluşturulacak ve kullanılacaktır. Sınıf (Class) diyagramı aşağıdaki gibidir.
